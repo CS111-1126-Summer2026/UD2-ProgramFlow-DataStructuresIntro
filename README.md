@@ -3,7 +3,7 @@
 _Create a Java program using Unit 2 topics to demonstrate knowledge and mastery._
 ## Requirements: ##
 
- Must use materials from, **and restricted to**, topics we've covered so far in a useful way. Specifically: 
+ - Must use materials from, **and restricted to**, topics we've covered so far in a useful way. Specifically: 
     - Must include at least one array (either single or multi-dimensional array is fine)
     - Must include conditional (if/else, switch) statements
     - Must include at least one loop (while, for, or do-while are all fine)
